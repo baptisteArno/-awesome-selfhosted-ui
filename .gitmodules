@@ -1,0 +1,3 @@
+[submodule "awesome-selfhosted-data"]
+	path = awesome-selfhosted-data
+	url = https://github.com/awesome-selfhosted/awesome-selfhosted-data
